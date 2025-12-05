@@ -13,6 +13,5 @@ The provided code did not function as intended at first, prompting me to deeply 
 enhancements and modifications.<br/>
 This repository hosts the refined version of the code with enhancements to ensure its operational integrity for scholarly or developmental pursuits.<br/>
 
-Supervisor: Prof.Erfan Hassannaebi <br/>
 main reference: https://doi.org/10.48550/arXiv.1708.05924
 
